@@ -1,0 +1,12 @@
+FOR THE PORTAL
+make sure you have LAMP running in your computer
+1. copy the directory (FulcrumDQS) in the portal folder into your apache public directory.
+2. Navigate from your browser to the portal. You should find more instructions there :)
+
+FOR THE MOBILE APPLICATION
+make sure you have a Netbeans installed and able to create JavaME applications
+1. Import the project under the JavaME Application directory to netbeans.
+2. change the urls in Midlet.java to point to the location of the portal.
+3. buid the app. 
+
+		ENJOY

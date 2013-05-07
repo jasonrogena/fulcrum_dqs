@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Sun Java(TM) Wireless Toolkit 2.5.2_01 for CLDC/DefaultColorPhone"/>
+	<classpathentry exported="true" kind="lib" path="/home/jason/Projects/Dynamic Farmer Querying System version 2.0/Code/Library resources/LWUIT_1_3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/jason/Projects/Dynamic Farmer Querying System version 2.0/Code/Library resources/kXML/kxml2-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
